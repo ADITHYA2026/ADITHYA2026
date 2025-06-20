@@ -119,15 +119,3 @@
 🔻 [Download My Resume (Google Drive)](https://drive.google.com/uc?export=download&id=1pJKiSJM8bgixtCafv99nE1RLPtCZj8Bl)
 
 ---
-
-## 🧠 Quote I Live By
-
-> *"Stay hungry. Stay foolish."* — Steve Jobs
-
----
-
-## ❤️ Made with Passion
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Adithya%20Prathi-blueviolet" />
-</p>
