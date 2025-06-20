@@ -31,21 +31,28 @@
 ### 🗄️ Databases
 `MySQL` • `PostgreSQL` • `Oracle SQL` • `MongoDB`
 
+### 💡 Core Skills  
+`OOP` • `Data Structures & Algorithms` • `DBMS` • `Operating Systems (OS)` • `Computer Networking` • `Software Engineering`
+
 ---
 
-## 👨‍💻 Experience
+## 💼 Experience
 
-- **AWS Cloud Trainee @ Innovative Origin** (Jul - Sep 2024)  
-  ➤ Explored 20+ AWS services, automated infra via CloudFormation, & monitored with CloudWatch  
+- **AWS Cloud Trainee – Innovative Origin** (Jul 2024 – Sep 2024)  
+  - Hands-on with 20+ AWS Services (EC2, S3, VPC, IAM, etc.)
+  - Automated deployments with CloudFormation  
+  - Monitored with CloudWatch  
 
-- **AI/ML Intern @ APSSDC** (May - Jun 2024)  
-  ➤ Built sentiment analysis system using Naive Bayes with 80% accuracy  
+- **AI/ML Intern – APSSDC** (May 2024 – Jun 2024)  
+  - Built Sentiment Analysis model (80% accuracy)  
+  - Used NLP (TF-IDF, Tokenization) & Python (NLTK, Scikit-learn)
 
-- **Web Dev Intern @ CodSoft** (Feb 2024)  
-  ➤ Developed calculator & landing page using HTML, CSS, JS  
+- **Web Developer Intern – CodSoft** (Feb 2024)  
+  - Created responsive landing pages & functional calculators  
+  - Gained real-world front-end debugging experience
 
-- **Data Analysis Trainee @ APSSDC** (Nov 2023)  
-  ➤ Applied Pandas, NumPy, Matplotlib on real-world data
+- **Data Analysis Trainee – APSSDC** (Nov 2023)  
+  - Worked on data visualization using Pandas, NumPy, Matplotlib 
 
 ---
 
@@ -61,7 +68,7 @@
 | 🌐 **Landing Page**| HTML, CSS, Font Awesome            | Sidebar navigation with CSS-only animations |
 | 🛒 **Spectrixo**   | HTML, CSS, JS                      | Fashion e-commerce frontend with testimonials |
 
-🔗 [Check all projects →](#)
+🔗 [Check all projects →](https://github.com/ADITHYA2026/Projects)
 
 ---
 
@@ -80,17 +87,21 @@
 
 - 🧩 **1000+ Coding Problems Solved**  
   Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef  
-- 📜 **Certified HTML & CSS Developer** – *Pearson VUE (Certiport)*
+
+- ☁️ **AWS Cloud Quest: Cloud Practitioner Badge** – *Amazon Web Services (AWS)*  
+  Awarded by AWS, validating practical cloud knowledge and the ability to build solutions using core AWS services including **Compute**, **Storage**, **Networking**, and **Security**
+
+- 📜 **Certified HTML & CSS Developer** – *Pearson VUE (Certiport)*  
 
 ---
 
 ## 🔗 Coding & Social Profiles
 
 ### 👨‍💻 Coding Platforms
-[LeetCode](https://leetcode.com/) • [GeeksforGeeks](https://www.geeksforgeeks.org/) • [HackerRank](https://www.hackerrank.com/) • [CodeChef](https://www.codechef.com/)
+[LeetCode](https://leetcode.com/ADITYA_PRATHI/) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aditya_prathi2005) • [HackerRank](https://www.hackerrank.com/profile/22P31A0540) • [CodeChef](https://www.codechef.com/users/sriaditya2608)
 
 ### 🌐 Professional & Social
-[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/) • [Twitter](https://twitter.com/) • [Instagram](https://instagram.com/)
+[LinkedIn](https://www.linkedin.com/in/adithyakumarprathi) • [GitHub](https://github.com/ADITHYA2026) • [Twitter](https://x.com/HereIsAdithya)
 
 ---
 
@@ -105,7 +116,7 @@
 
 ## 📄 Resume
 
-🔻 [Download My Resume (Google Drive)](https://your-resume-link.com)
+🔻 [Download My Resume (Google Drive)](https://drive.google.com/uc?export=download&id=1pJKiSJM8bgixtCafv99nE1RLPtCZj8Bl)
 
 ---
 
