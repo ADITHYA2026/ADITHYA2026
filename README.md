@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Frontend Web Developer | Cloud Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Passionate+about+Coding+%26+Cloud+☁️;Frontend+Developer+%7C+AWS+Explorer+%7C+ML+Learner;Always+Learning+New+Tech!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Passionate+about+Software+Development+%26+Cloud+☁️;Frontend+Developer+%7C+AWS+Explorer+%7C+ML+Learner;Always+Learning+New+Tech!&center=true&width=500&height=45" />
 </p>
 
 ---
