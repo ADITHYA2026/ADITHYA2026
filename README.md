@@ -116,6 +116,6 @@
 
 ## 📄 Resume
 
-🔻 [Download My Resume (Google Drive)](https://drive.google.com/uc?export=download&id=1pJKiSJM8bgixtCafv99nE1RLPtCZj8Bl)
+🔻 [View My Resume (Google Drive)]([https://drive.google.com/file/d/1U7mV2JWMYnJ6RVjQhrlc-A7lSvELyjuW/view?usp=drive_link])
 
 ---
