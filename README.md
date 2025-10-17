@@ -75,7 +75,7 @@
 |---------|------------|-------------|
 | 🔒 **Secure File Sharing System** | React, AWS (S3, DynamoDB, Amplify), GraphQL API, GitHub | Secure file-sharing web app with expiring, password-protected links using AWS and React. Used S3 for storage, DynamoDB for metadata, and Amplify for CI/CD. |
 | 🍲 **Recipe Finder** | Node.js, Express.js, TheMealDB API, Axios, HTML, CSS, JavaScript | Web app fetching recipes in real time based on ingredients. Integrated TheMealDB API for instant recipe results. |
-| 📊 **Sentiment Analysis** | Python, NLTK, Scikit-learn | ML model predicting restaurant review sentiments using Naïve Bayes and text preprocessing via NLTK. |
+| 📊 **Sentiment Analysis** | Python, Machine Learning (NLTK, Scikit-learn) | ML model predicting restaurant review sentiments using Naïve Bayes and text preprocessing via NLTK. |
 | 🛒 **Spectrixo** | HTML, CSS, JS | Fashion e-commerce frontend with testimonials |
 | 🎧 **TuneHub** | HTML, CSS | Spotify-inspired music interface with responsive UI |
 | ✅ **To-Do List** | HTML, CSS, JavaScript, AWS | Task manager app hosted on AWS with local storage |
