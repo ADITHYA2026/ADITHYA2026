@@ -73,15 +73,15 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| 🔒 **Secure File Sharing System** | React, AWS (S3, DynamoDB, Amplify), GraphQL API, GitHub | Built a secure file-sharing web app that generates expiring, password-protected download links. Used S3 for storage, DynamoDB for metadata & expiry, Amplify Console for CI/CD, and GitHub integration. Implemented pre-signed URLs and expiry validation. |
-| 🍲 **Recipe Finder** | Node.js, Express.js, TheMealDB API, Axios, HTML, CSS, JavaScript | Dynamic web app fetching recipes based on user-input ingredients. Integrated TheMealDB API to retrieve recipes with images, titles, and links dynamically. Implemented query-based API fetching and dynamic rendering for instant results. |
-| 📊 **Sentiment Analysis** | Python, NLTK, Scikit-learn | ML model predicting restaurant reviews sentiment |
+| 🔒 **Secure File Sharing System** | React, AWS (S3, DynamoDB, Amplify), GraphQL API, GitHub | Secure file-sharing web app with expiring, password-protected links using AWS and React. Used S3 for storage, DynamoDB for metadata, and Amplify for CI/CD. |
+| 🍲 **Recipe Finder** | Node.js, Express.js, TheMealDB API, Axios, HTML, CSS, JavaScript | Web app fetching recipes in real time based on ingredients. Integrated TheMealDB API for instant recipe results. |
+| 📊 **Sentiment Analysis** | Python, NLTK, Scikit-learn | ML model predicting restaurant review sentiments using Naïve Bayes and text preprocessing via NLTK. |
 | 🛒 **Spectrixo** | HTML, CSS, JS | Fashion e-commerce frontend with testimonials |
 | 🎧 **TuneHub** | HTML, CSS | Spotify-inspired music interface with responsive UI |
 | ✅ **To-Do List** | HTML, CSS, JavaScript, AWS | Task manager app hosted on AWS with local storage |
 | 🔢 **Calculator** | HTML, CSS, JavaScript | Functional calculator with clear/backspace support |
 | ⏰ **Analog Clock** | HTML, CSS, JavaScript, SVG | Real-time SVG clock with animated hands |
-| 🌐 **Landing Page** | HTML, CSS, Font Awesome | Sidebar navigation with CSS-only animations |
+| 🌐 **Landing Page** | HTML, CSS, Font Awesome | Sidebar navigation with CSS-only animations |  
 
 🔗 [Check all projects →](https://github.com/ADITHYA2026/Projects)
 
