@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Adithya Prathi</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer | Cloud Enthusiast </h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Web Developer | Cloud Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Passionate+about+Software+Development+%26+Cloud;Frontend+Developer+%7C+AWS+Explorer+%7C+ML+Learner;Always+Learning+New+Tech!&duration=8000&speed=70&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Passionate+about+Software+Development+%26+Cloud;Full Stack Web+Developer+%7C+AWS+Explorer+%7C+ML+Learner;Always+Learning+New+Tech!&duration=8000&speed=70&width=500&height=45" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 📌 About Me
 
 🎓 B.Tech CSE student at Aditya College of Engineering & Technology  
-💻 Passionate about problem-solving, web development, and cloud computing  
-🌐 Skilled in Java, Python, C++, SQL, HTML, CSS, JavaScript, React, AWS  
-🧠 Strong understanding of OS, CN, DBMS, DSA, and OOPs  
+💻 Passionate about problem-solving, full stack web development, cloud computing & AI & ML
+🌐 Skilled in Programming, Full Stack Web Development, Cloud   
+🧠 Strong understanding of Software Engineering, SDLC, OS, CN, DBMS, DSA, and OOPs  
 🛠️ Version control: Git & GitHub | Cloud: AWS (EC2, S3, RDS, IAM, etc.)
 
 ---
@@ -40,6 +40,16 @@
 ---
 
 ## 💼 Experience
+- **Cloud Computing - DevOps Intern – APSSDC** (May 2025 – Jun 2025)  
+  - Deployed and managed cloud-based applications using AWS services, including provisioning resources, configuring storage, networking, and security
+  - Gained hands-on experience in DevOps methodologies, version control with Git & GitHub Actions, and development of CI/CD pipelines for automated software delivery
+  - Monitored, optimized, and maintained infrastructure by setting up logging, scaling systems, and ensuring high availability
+  - Troubleshooted performance and configuration issues to maintain system reliability
+
+- **AWS Cloud Trainee – Innovative Origin** (Jul 2024 – Oct 2024)  
+  - Hands-on with 20+ AWS Services (EC2, S3, VPC, IAM, etc.)
+  - Automated deployments with CloudFormation  
+  - Monitored with CloudWatch
 
 - **AWS Cloud Trainee – Innovative Origin** (Jul 2024 – Sep 2024)  
   - Hands-on with 20+ AWS Services (EC2, S3, VPC, IAM, etc.)
@@ -61,15 +71,17 @@
 
 ## 🌟 Projects
 
-| Project            | Tech Stack                         | Description |
-|--------------------|-------------------------------------|-------------|
-| 🎧 **TuneHub**     | HTML, CSS                          | Spotify-inspired music interface with responsive UI |
-| 📊 **Sentiment Analysis** | Python, NLTK, Scikit-learn     | ML model predicting restaurant reviews sentiment |
-| ✅ **To-Do List**  | HTML, CSS, JavaScript, AWS         | Task manager app hosted on AWS with local storage |
-| 🔢 **Calculator**  | HTML, CSS, JavaScript              | Functional calculator with clear/backspace support |
-| ⏰ **Analog Clock**| HTML, CSS, JavaScript, SVG         | Real-time SVG clock with animated hands |
-| 🌐 **Landing Page**| HTML, CSS, Font Awesome            | Sidebar navigation with CSS-only animations |
-| 🛒 **Spectrixo**   | HTML, CSS, JS                      | Fashion e-commerce frontend with testimonials |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🔒 **Secure File Sharing System** | React, AWS (S3, DynamoDB, Amplify), GraphQL API, GitHub | Built a secure file-sharing web app that generates expiring, password-protected download links. Used S3 for storage, DynamoDB for metadata & expiry, Amplify Console for CI/CD, and GitHub integration. Implemented pre-signed URLs and expiry validation. |
+| 🍲 **Recipe Finder** | Node.js, Express.js, TheMealDB API, Axios, HTML, CSS, JavaScript | Dynamic web app fetching recipes based on user-input ingredients. Integrated TheMealDB API to retrieve recipes with images, titles, and links dynamically. Implemented query-based API fetching and dynamic rendering for instant results. |
+| 📊 **Sentiment Analysis** | Python, NLTK, Scikit-learn | ML model predicting restaurant reviews sentiment |
+| 🛒 **Spectrixo** | HTML, CSS, JS | Fashion e-commerce frontend with testimonials |
+| 🎧 **TuneHub** | HTML, CSS | Spotify-inspired music interface with responsive UI |
+| ✅ **To-Do List** | HTML, CSS, JavaScript, AWS | Task manager app hosted on AWS with local storage |
+| 🔢 **Calculator** | HTML, CSS, JavaScript | Functional calculator with clear/backspace support |
+| ⏰ **Analog Clock** | HTML, CSS, JavaScript, SVG | Real-time SVG clock with animated hands |
+| 🌐 **Landing Page** | HTML, CSS, Font Awesome | Sidebar navigation with CSS-only animations |
 
 🔗 [Check all projects →](https://github.com/ADITHYA2026/Projects)
 
@@ -77,19 +89,25 @@
 
 ## 📜 Certifications
 
-- ✅ **IT Specialist (HTML & CSS)** – *Pearson VUE*
-- ☁️ **AWS Cloud Quest: Cloud Practitioner** – *Amazon Web Services*
-- 💻 **GitHub Foundations** – *GitHub*
-- 🧠 **AI Fundamentals** – *IBM*
-- 🧮 **SQL Advanced** – *HackerRank*
-- ☕ **Java Fundamentals** – *edX*
+- ☁️ **AWS Cloud Quest: Cloud Practitioner** – *Amazon Web Services*  
+- 💻 **GitHub Foundations** – *GitHub*  
+- ☕ **Java Fundamentals** – *edX*  
+- 🧮 **SQL Advanced** – *HackerRank*  
+- 🧠 **AI Fundamentals** – *IBM*  
+- 🐍 **Python Essentials** – *IBM*  
+- 🐍 **Python for Data Science** – *IBM*  
+- 🌐 **Networking Fundamentals** – *Cisco*  
+- 🐧 **Linux Unhatched** – *Cisco*  
+- ✅ **IT Specialist (HTML & CSS)** – *Pearson VUE*  
 
 ---
 
 ## 🏆 Achievements
 
 - 🧩 **1000+ Coding Problems Solved**  
-  Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef  
+  Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef
+
+- 📜 **Certified in SQL Advanced** – *Hacker Rank*  
 
 - ☁️ **AWS Cloud Quest: Cloud Practitioner Badge** – *Amazon Web Services (AWS)*  
   Awarded by AWS, validating practical cloud knowledge and the ability to build solutions using core AWS services including **Compute**, **Storage**, **Networking**, and **Security**
@@ -119,6 +137,6 @@
 
 ## 📄 Resume
 
-🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/1U7mV2JWMYnJ6RVjQhrlc-A7lSvELyjuW/view?usp=drive_link)
+🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/12RfSmsSsGbS1r_z1pSv5aYxzstFaQzhY/view?usp=drive_link)
 
 ---
