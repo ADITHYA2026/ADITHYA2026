@@ -47,11 +47,6 @@
   - Automated deployments with CloudFormation  
   - Monitored with CloudWatch
 
-- **AWS Cloud Trainee – Innovative Origin** (Jul 2024 – Sep 2024)  
-  - Hands-on with 20+ AWS Services (EC2, S3, VPC, IAM, etc.)
-  - Automated deployments with CloudFormation  
-  - Monitored with CloudWatch  
-
 - **AI/ML Intern – APSSDC** (May 2024 – Jun 2024)  
   - Built Sentiment Analysis model (80% accuracy)  
   - Used NLP (TF-IDF, Tokenization) & Python (NLTK, Scikit-learn)
