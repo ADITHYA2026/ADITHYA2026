@@ -9,11 +9,11 @@
 
 ## 📌 About Me
 
-🎓 Final - year B.Tech CSE student graduating in 2026
-🌐 Skilled in Problem-solving, Programming, Full Stack Web Development, Cloud
-💻 Passionate about AI & ML
+🎓 Final - year B.Tech CSE student graduating in 2026  
+🌐 Skilled in Problem-solving, Programming, Full Stack Web Development, Cloud  
+💻 Passionate about AI & ML  
 🧠 Strong understanding of Software Engineering, SDLC, OS, CN, DBMS, DSA, and OOPs  
-🛠️ Version control: Git & GitHub | Cloud: AWS (EC2, S3, RDS, IAM, etc.)
+🛠️ Version control: Git & GitHub | Cloud: AWS (EC2, S3, RDS, IAM, etc.)  
 
 ---
 
