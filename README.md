@@ -128,6 +128,6 @@
 
 ## 📄 Resume
 
-🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/12RfSmsSsGbS1r_z1pSv5aYxzstFaQzhY/view?usp=drive_link)
+🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/1DU1nMdxAXskAAyvCGRevX25_pyd5JH2B/view?usp=drive_link)
 
 ---
