@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adithya Prathi</h1>
-<h3 align="center">Aspiring Software Engineer | Java • Python • SQL | MERN Stack | AWS Cloud & DevOps | AI & ML</h3>
+<h3 align="center">Aspiring Software Engineer | Java • Python | MERN Stack | AWS Cloud & DevOps | AI & ML</h3>
 
 ---
 
