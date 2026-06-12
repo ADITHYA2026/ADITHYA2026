@@ -5,15 +5,14 @@
 
 ## 📌 About Me
 
-🎓 B.Tech Graduate (2026 Batch) in Computer Science and Engineering (CSE) with strong problem-solving skills in **Java, Python, and SQL**.
-
-💡 Proficient in **Data Structures & Algorithms (DSA)** with strong analytical and logical thinking abilities developed through consistent coding practice and solving real-world problems.
-🌐 Hands-on experience in **Full Stack Web Development**, building responsive and scalable applications using **React.js, Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**.
-🤖 Passionate about **Artificial Intelligence, AI Agents, Machine Learning, and Cloud Computing**, with experience developing autonomous AI applications, workflow automation systems, and real-world software solutions.
-☁️ Experienced in **AWS Cloud Services**, including designing, deploying, and managing cloud-based applications using services such as EC2, S3, IAM, RDS, VPC, CloudFormation, and CloudWatch.
-🛠️ Skilled in modern development tools and practices including **Git, GitHub, Docker, Linux, CI/CD, REST APIs, GraphQL APIs, and Agile Software Development**.
-📚 Well-grounded in core Computer Science fundamentals including **Operating Systems, Computer Networks, DBMS, Object-Oriented Programming, Software Engineering, and System Design Principles**.
-🚀 Dedicated to continuous learning and professional growth, with a strong interest in building scalable, efficient, and impactful software systems that solve real-world problems.
+🎓 B.Tech Graduate (2026 Batch) in Computer Science and Engineering (CSE) with strong problem-solving skills in **Java, Python, and SQL**.<br>
+💡 Proficient in **Data Structures & Algorithms (DSA)** with strong analytical and logical thinking abilities developed through consistent coding practice and solving real-world problems.<br>
+🌐 Hands-on experience in **Full Stack Web Development**, building responsive and scalable applications using **React.js, Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**.<br>
+🤖 Passionate about **Artificial Intelligence, AI Agents, Machine Learning, and Cloud Computing**, with experience developing autonomous AI applications, workflow automation systems, and real-world software solutions.<br>
+☁️ Experienced in **AWS Cloud Services**, including designing, deploying, and managing cloud-based applications using services such as EC2, S3, IAM, RDS, VPC, CloudFormation, and CloudWatch.<br>
+🛠️ Skilled in modern development tools and practices including **Git, GitHub, Docker, Linux, CI/CD, REST APIs, GraphQL APIs, and Agile Software Development**.<br>
+📚 Well-grounded in core Computer Science fundamentals including **Operating Systems, Computer Networks, DBMS, Object-Oriented Programming, Software Engineering, and System Design Principles**.<br>
+🚀 Dedicated to continuous learning and professional growth, with a strong interest in building scalable, efficient, and impactful software systems that solve real-world problems.<br>
 
 
 ## 🛠 Skills & Tools
