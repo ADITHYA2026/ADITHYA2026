@@ -69,8 +69,6 @@
 
 ## 🌟 Projects
 
-## 🌟 Projects
-
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | 🤖 **ARIA – Autonomous AI Agent with Tool Calling** | React.js, FastAPI, Google Gemini 2.5 Flash, Tavily API, SSE, Redis | Built an autonomous AI agent capable of iterative reasoning and dynamic tool usage with real-time SSE streaming. Integrated Gemini 2.5 Flash with 6 autonomous tools, achieving 60 req/min on the free tier through intelligent tool chaining. Deployed backend on Render and frontend on Vercel with CORS configuration, environment variable management, and optional Redis-based session persistence. |
@@ -141,6 +139,6 @@
 
 ## 📄 Resume
 
-🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/1DU1nMdxAXskAAyvCGRevX25_pyd5JH2B/view?usp=drive_link)
+🔻 [View My Resume (Google Drive)](https://drive.google.com/file/d/1u5cT7VHVTB3cnKQ-9vh0054UF_Do7O7G/view?usp=drive_link)
 
 ---
