@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Adithya Prathi</h1>
-<h3 align="center">Software Engineer | Java • Python • SQL | Full Stack Development | AI Agents | AWS Cloud</h3>
+<h3 align="center">An Aspiring Software Engineer | Java • Python • SQL | Full Stack Development | AI Agents | AWS Cloud</h3>
 
 ---
 
 ## 📌 About Me
 
 🎓 B.Tech Graduate (2026 Batch) in Computer Science and Engineering (CSE) with strong problem-solving skills in **Java, Python, and SQL**.
+
 💡 Proficient in **Data Structures & Algorithms (DSA)** with strong analytical and logical thinking abilities developed through consistent coding practice and solving real-world problems.
 🌐 Hands-on experience in **Full Stack Web Development**, building responsive and scalable applications using **React.js, Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**.
 🤖 Passionate about **Artificial Intelligence, AI Agents, Machine Learning, and Cloud Computing**, with experience developing autonomous AI applications, workflow automation systems, and real-world software solutions.
