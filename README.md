@@ -30,7 +30,7 @@
 `AWS` • `CI/CD` • `Docker`• `GitHub` • `Git`• `Linux` • `GitHub Actions`
 
 ### 🗄️ Databases
-`MySQL` • `PostgreSQL` • `Oracle SQL` • `MongoDB`
+`MySQL` • `Oracle` • `MongoDB`
 
 ### 💡 Core Skills  
 `Object Oriented Programming` • `Data Structures & Algorithms` • `DBMS` • `Operating Systems (OS)` • `Computer Networks` • `Software Engineering`
